@@ -1,7 +1,7 @@
 from navigation import make_sidebar
 import streamlit as st
 from time import sleep
-from digital_twin import DigitalTwin
+from client import DigitalTwin
 from loader import DataLoader
 import pandas as pd
 
