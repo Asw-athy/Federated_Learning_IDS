@@ -2,7 +2,7 @@ import numpy as np
 import tensorflow as tf
 import pandas as pd
 from sklearn import preprocessing
-from digital_twin import DigitalTwin
+from client import DigitalTwin
 import typing
 import logging
 
